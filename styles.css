@@ -71,6 +71,9 @@ button{
     margin-top: 2rem;
     border: 0;
 }
+li{
+    margin-left: 0.3rem;
+}
 @media screen and (min-width:794px) {
     .m{
         display: none;
